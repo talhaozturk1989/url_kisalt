@@ -1,6 +1,6 @@
 # url_kisalt
 
-A new Flutter project.
+Flutter url kısaltma projesi.
 
 ## Getting Started
 
